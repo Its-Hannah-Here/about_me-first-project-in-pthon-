@@ -1,0 +1,12 @@
+name=("Hannah")
+print("Hello my name is ",name )
+age=8+4
+print("I am", age , "years old")
+print("currently in 7th grade ")
+print("This is my first python project")
+print("And I am very intrested in doing this ") 
+print("My dream is to be a software engineer")
+print("And I like to do coding ")
+print("I am now learning python and later I wanna learn more ")
+print("My favourite subjects are computer science,maths,science and english ")
+print("Thankyou for reading this file ,I will do more projects when I get to know more about coding ")
